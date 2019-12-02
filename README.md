@@ -10,4 +10,4 @@
 ➜ ~ ssh-multi "host1 host2 host3 host4 host5 host6 host7 host8 ..."
 ```
 
-![demo1](/demo1.png)
+![demo1](/img/demo1.png)
