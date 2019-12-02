@@ -1,6 +1,15 @@
 # ssh-multi
 一个次管理多个ssh窗口
 
+### 前提
+
+必须安装`tmux`，了解tmux的简单使用方法
+
+```
+➜ ~ tmux -V
+tmux 2.9a
+```
+
 #### 使用方法
 ```
 ➜ ~ git clone https://github.com/zzsme/ssh-multi.git
